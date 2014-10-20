@@ -1,0 +1,10 @@
+{
+  "name": "CartmenInserters",
+  "version": "0.1.0",
+  "title": "Cartmen's Inserter Mod",
+  "author": "Cartmen180",
+  "contact": "cartmen180@gmail.com",
+  "homepage": "",
+  "description": "Adds new inserters to the game.",
+  "dependencies": ["base >= 0.10.0"]
+}
