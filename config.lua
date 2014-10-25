@@ -9,3 +9,9 @@ FastInserter = true
 
 --use longhanded left and right inserters
 LongInserter = true
+
+--longer underground belts
+LongerUndergroundBelt = true
+
+--longer underground pipes
+LongerUndergroundPipe = true
